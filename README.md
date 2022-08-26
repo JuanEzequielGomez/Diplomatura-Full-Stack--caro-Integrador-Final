@@ -22,8 +22,11 @@ Algunas de las herramientas utilizadas en la construcción del Proyecto no fuero
 Para aquellos que deseen instalar en su computadora esta pequeña App, los pasos a seguir son los siguientes:
 
 mysql -u MYUSR "-pMYPASSWORD" < ./database/db.sql # create database
+
 npm i
+
 npm run build
+
 npm start
 
 ## Estructura de archivos
